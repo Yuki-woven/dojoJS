@@ -46,6 +46,7 @@ const hide_header = function(){
         header.style.visibility = "hidden";
     }
 }
+
 document.addEventListener('scroll', () => {
     header.style.visibility = "visible";
     setTimeout(hide_header, 3000);
