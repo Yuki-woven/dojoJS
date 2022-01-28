@@ -4,9 +4,9 @@
 
 - Add to section4
 - Add to navigation
-    - If the nav-tab is clicked, the color of tab change.
     - If the nav-tab is clicked, the page move to the position of the selected section.
-    - If the mouse-cursol is above the section-tab, the color of the linked nav-tab change.
+    - If you click it, the page will scroll the selected section.
+    - If you scroll or mousemove, the nav-tab will appear. After 3sec later, the nav-tab is hidden.
 - All features are usable across modern desktop, tablet, and phone browsers.
 
 ## Table of Contents
